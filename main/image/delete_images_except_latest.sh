@@ -1,1 +1,0 @@
-This will delete the image files except for the latest one.
